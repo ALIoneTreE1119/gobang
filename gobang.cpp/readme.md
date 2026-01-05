@@ -113,7 +113,6 @@ gobang.exe
 
 ## 👨‍💻 Author
 
-* **Author:** Yucheng Zhu (朱玉成)
 * **Language:** C++
 * **Environment:** Visual Studio 2022 / g++
 * **Project Type:** Personal practice project (first functional program)
@@ -133,4 +132,5 @@ gobang.exe
 
 This project is for **learning and educational purposes** only.
 You are free to copy, modify, and extend it — please retain the author’s credit.
+
 
